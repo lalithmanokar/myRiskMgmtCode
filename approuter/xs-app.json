@@ -1,5 +1,5 @@
 {
-    "welcomeFile": "/app/launchpage.html",
+    "welcomeFile": "/cp.portal",
     "authenticationMethod": "route",
     "sessionTimeout": 30,
     "logout": {
